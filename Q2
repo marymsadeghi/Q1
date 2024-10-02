@@ -1,0 +1,16 @@
+include <io stream>
+using namespace std;
+int main()
+={
+float a,b,c,average,sum;
+cout<<"x=";
+cin>>a;
+cout<<"y=";
+cin>>b;
+cout<<"z=";
+cin>>c;
+sum a+b+c;
+average=sum/3;
+count<<average;
+return sum;
+}
